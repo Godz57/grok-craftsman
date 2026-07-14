@@ -6,6 +6,25 @@
 
 Isto é a **fase lite** — manifesto + references + toggle. Não porta hooks Claude nem stack Biome/Stryker inteira. Quality gate Node fica no roadmap.
 
+## Start here
+
+Part of the [Godz57 Grok kit stack](https://github.com/Godz57/grok-tooling-playbook).  
+**New users** — install the playbook first, or the full stack in order:
+
+```powershell
+git clone https://github.com/Godz57/grok-tooling-playbook.git
+cd grok-tooling-playbook
+.\scripts\install-stack.ps1                 # Full
+.\scripts\install-stack.ps1 -Profile Core   # playbook + superpowers + craftsman
+```
+
+```bash
+./scripts/install-stack.sh
+./scripts/install-stack.sh core
+```
+
+[When to use what →](https://github.com/Godz57/grok-tooling-playbook#quick-routing)
+
 ## Por que existe
 
 LLMs sabem engenharia boa, mas tendem a **iterar** (resposta fraca → correção → tokens). Craftsman força disciplina **na primeira entrega**.
@@ -14,6 +33,7 @@ LLMs sabem engenharia boa, mas tendem a **iterar** (resposta fraca → correçã
 
 | Kit | Papel |
 |-----|--------|
+| [grok-tooling-playbook](https://github.com/Godz57/grok-tooling-playbook) | **Start here:** when-to-use + install-stack |
 | [grok-superpowers](https://github.com/Godz57/grok-superpowers) | Processo: design → plan → TDD → verify |
 | [grok-loops](https://github.com/Godz57/grok-loops) | Autonomia: girar até check/goals |
 | [grok-pentest](https://github.com/Godz57/grok-pentest) | Segurança OWASP em vibe code |
