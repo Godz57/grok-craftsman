@@ -19,6 +19,7 @@ LLMs sabem engenharia boa, mas tendem a **iterar** (resposta fraca → correçã
 | [grok-pentest](https://github.com/Godz57/grok-pentest) | Segurança OWASP em vibe code |
 | [grok-strix](https://github.com/Godz57/grok-strix) | Strix AI pentest (PoC) |
 | [grok-cyber-skills](https://github.com/Godz57/grok-cyber-skills) | 817 cyber playbooks (router) |
+| [grok-ai-memory](https://github.com/Godz57/grok-ai-memory) | Memória / handoff Grok+Pi |
 | **grok-craftsman** | **Polícia de código:** o que é proibido / medido sempre |
 
 ## Install
