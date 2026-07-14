@@ -16,6 +16,7 @@ LLMs sabem engenharia boa, mas tendem a **iterar** (resposta fraca → correçã
 |-----|--------|
 | [grok-superpowers](https://github.com/Godz57/grok-superpowers) | Processo: design → plan → TDD → verify |
 | [grok-loops](https://github.com/Godz57/grok-loops) | Autonomia: girar até check/goals |
+| [grok-pentest](https://github.com/Godz57/grok-pentest) | Segurança OWASP em vibe code |
 | **grok-craftsman** | **Polícia de código:** o que é proibido / medido sempre |
 
 ## Install
